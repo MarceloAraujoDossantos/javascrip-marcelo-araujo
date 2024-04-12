@@ -1,0 +1,14 @@
+.botao{                                          /*para que o codigo funcione com os outro nomeia ele*/
+  display: block;                                /*apresento o item em block*/
+  margin-top: 20px;                              /*para destanciar de cima para baixo*/
+  text-decoration: none;                         /*remove o subliado*/
+  background-color: #ffd700;                    /*cor de fundo*/
+  width: 85px;                                    /*largura*/
+  padding: 5px;                                   /*prenchimento interno*/
+  border: 1px solid #111;                      /*borda*/
+  border-radius: 2px;                            /*arredondamrnto da borda*/
+  text-align: center;                            /*centraliza o texto*/
+  font-family: Arial, Helvetica, sans-serif;     /*e um tipo de fonte*/
+  color: #111;                                 /*mudar a cor do texto*/
+  
+}

@@ -1,0 +1,25 @@
+h1 {
+  background-color: yellowgreen;
+  color:blue;
+}
+h2{
+  color: blueviolet;
+}
+.css{
+  color: green;
+}
+.html{
+  background-color: lightblue;
+
+
+}
+.js{
+  background-color: yellow;
+}
+.sublinha{
+  text-decoration: underline;
+}
+a{
+  text-decoration: none;
+  font-family: sans-serif;
+}

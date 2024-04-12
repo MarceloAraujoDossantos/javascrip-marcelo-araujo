@@ -1,0 +1,10 @@
+
+.inlineblock{
+  display: inline-block;
+  margin: 10px;
+}
+a{
+  background-color: #ddd;
+  padding: 10px;
+  display: block;
+}

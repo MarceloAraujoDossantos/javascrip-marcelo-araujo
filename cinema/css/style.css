@@ -1,0 +1,33 @@
+.p1 {
+  color: darkred;
+  font-size: 20px;
+}
+.p2 {
+  color: darkred;
+  font-size: 20px;
+}
+.p3 {
+  color: darkred;
+  font-size: 20px;
+}
+.p4 {
+  color: darkblue;
+  font-size: 20px;
+}
+.p5 {
+  color: darkblue;
+  font-size: 20px;
+}
+.p6 {
+  color: darkblue;
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+}
+h2 a {
+  color: seagreen;
+}
+body{
+  font-family:  Arial ;
+}

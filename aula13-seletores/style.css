@@ -1,0 +1,38 @@
+/*id="principal" */
+
+#principal{
+  background-color: yellowgreen;
+  font-family: Arial, Helvetica, sans-serif;
+  color: blue;
+}
+/*class="subtitulo"*/
+.subtitulo2{
+  background:yellow;
+font-family: 'Trebuchet MS';
+color: blue;
+}
+.subtitulo2{
+background: lightblue;
+font-family: monospace;
+color: black;
+}
+/*class ="textoj"*/
+.textoj{
+  text-align: justify;
+}
+.destaque{
+  font-family: 2em;
+  font-family: Impact, sans-serif;
+  color: darkblue;
+
+}
+/*utilizando pseudo classes*/
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+a:visited{
+  color: red;
+}
